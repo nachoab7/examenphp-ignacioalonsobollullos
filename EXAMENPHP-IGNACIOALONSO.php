@@ -67,7 +67,7 @@ switch ($selector) {
     echo "Seleccione una opcion válida";
     break;
     }
-    /*
+    
     switch ($selector2) {
         case 'ok':
            random($input2);
@@ -77,5 +77,5 @@ switch ($selector) {
     break;
    
 }
- */
+ 
 ?>
